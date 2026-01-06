@@ -4,7 +4,7 @@
 [![Status: Scientific Validation](https://img.shields.io/badge/Status-Scientific%20Validation-blueviolet)]()
 [![Version: 1.0](https://img.shields.io/badge/Paper-v1.0-green)]()
 [![Signature: dS/dt < 0](https://img.shields.io/badge/Signature-dS%2Fdt%20Neg-critical)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![License: APACHE2.0](https://img.shields.io/badge/License-Apache-2.0-yellow.svg)]()
 
 > **"Surface Chaos is Energy. Deep Structure is Gravity."**
 
