@@ -70,7 +70,6 @@ L'interaction devient une fonction récursive contractante où la structure prof
 
 * `docs/whitepaper_les_v1.md` : Le papier scientifique complet (Déc 2025).
 * `FORMULAS.md` : Index des équations différentielles et preuves.
-* `poc/` : Preuves de concept et simulations de divergence.
 
 ---
 
